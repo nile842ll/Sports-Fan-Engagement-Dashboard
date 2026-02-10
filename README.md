@@ -1,6 +1,3 @@
-# Sports-Fan-Engagement-Dashboard
-Analyzes how fan engagement around sports content changes across a season, examining the relationship between performance, timing, and key moments to surface insights relevant to sports media, marketing, and digital strategy teams.
-
 # Sports Fan Engagement Dashboard
 
 This project analyzes how fan engagement around sports content changes across a season using **Google Trends** as a proxy for audience interest. It explores how performance, timing, and major moments correlate with spikes in attention, surfacing insights relevant to **sports media, marketing, and digital strategy** teams.
